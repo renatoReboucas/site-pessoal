@@ -27,9 +27,9 @@
             criança vivia na frente de computadores e consoles. Mas na
             adolescência descobriu realmente sua paixão por códigos. Ao ver que
             o que o limitava era ele mesmo, buscou estudar e se dedicar cada vez
-            mais na área. Uma das coisas que mais o motivou foram as pessoas
-            duvidarem de sua capacidade na área e a dois anos atua como
-            programador web
+            mais na área. Uma das coisas que mais o motivou foi as pessoas
+            duvidarem de sua capacidade na área e á dois anos atua como
+            programador web.
           </p>
         </div>
       </div>
