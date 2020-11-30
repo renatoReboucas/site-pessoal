@@ -40,6 +40,12 @@
       </div>
     </div>
 
+     <!-- <div class="row">
+      <div class="col content-bio">
+        <button>Baixar Curriculo</button>
+      </div>
+    </div> -->
+
     <div class="row">
       <div class="col">
         <div class="social-content">
