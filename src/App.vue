@@ -34,6 +34,11 @@
         </div>
       </div>
     </div>
+    <div class="row">
+      <div class="col content-bio">
+        <p>Tenho conhecimento em HTML, Javascript, Node, PHP, Laravel, Mysql, Vue, React e CSS. </p>
+      </div>
+    </div>
 
     <div class="row">
       <div class="col">
