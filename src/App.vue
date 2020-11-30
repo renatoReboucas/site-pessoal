@@ -23,7 +23,7 @@
       <div class="col">
         <div class="content-bio">
           <p>
-            Renato é uma amante de tecnologia desde se da por gente, quando
+            Renato é um amante de tecnologia desde se da por gente, quando
             criança vivia na frente de computadores e consoles. Mas na
             adolescência descobriu realmente sua paixão por códigos. Ao ver que
             o que o limitava era ele mesmo, buscou estudar e se dedicar cada vez
