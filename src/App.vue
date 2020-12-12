@@ -83,7 +83,7 @@
           <i class="fab fa-twitter"></i>
         </a>
         <a
-          href="https://www.linkedin.com/in/renato-rebou%C3%A7as-9bb008132/"
+          href="linkedin.com/in/renatoreboucas"
           target="_blank"
           rel="noopener noreferrer"
           class="social-media"
