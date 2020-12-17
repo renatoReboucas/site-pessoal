@@ -15,7 +15,7 @@
     <div class="row">
       <div class="col">
         <div class="container-title">
-          <h1 class="title">Renato Rebouças</h1>
+          <h1 class="title">{ Renato Rebouças }</h1>
         </div>
       </div>
     </div>
