@@ -1,8 +1,8 @@
 <template>
   <div>
-    <div class="header">
+    <!-- <div class="header">
     <button>Download CV</button>
-    </div>
+    </div> -->
     <div class="container">
       <div class="row">
         <div class="col">
@@ -219,6 +219,7 @@ a {
   color: #2ecc71 !important;
   margin-top: 15px;
   font-weight: 600;
+  font-size: 30px;
 }
 .content-bio {
   margin-top: 20px;
