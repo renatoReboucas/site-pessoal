@@ -1,107 +1,114 @@
 <template>
-  <div class="container">
-    <div class="row">
-      <div class="col">
-        <div class="text-center container-picture">
-          <img
-            :src="profile.avatar_url"
-            class="picture rounded mx-auto d-block"
-            alt="autor-picture"
-          />
+  <div>
+    <div class="header">
+    <button>Download CV</button>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <div class="text-center container-picture">
+            <img
+              :src="profile.avatar_url"
+              class="picture rounded mx-auto d-block"
+              alt="autor-picture"
+            />
+          </div>
         </div>
       </div>
-    </div>
 
-    <div class="row">
-      <div class="col">
-        <div class="container-title">
-          <h1 class="title">{ Renato Rebouças }</h1>
+      <div class="row">
+        <div class="col">
+          <div class="container-title">
+            <h1 class="title">{ Renato Rebouças }</h1>
+          </div>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col">
-        <div class="content-bio">
+      <div class="row">
+        <div class="col">
+          <div class="content-bio">
+            <p>
+              Renato é um amante de tecnologia desde se da por gente, quando
+              criança vivia na frente de computadores e consoles. Mas na
+              adolescência descobriu realmente sua paixão por códigos. Ao ver
+              que o que o limitava era ele mesmo, buscou estudar e se dedicar
+              cada vez mais na área. Uma das coisas que mais o motivou foi as
+              pessoas duvidarem de sua capacidade na área e á dois anos atua
+              como programador web.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col content-bio">
           <p>
-            Renato é um amante de tecnologia desde se da por gente, quando
-            criança vivia na frente de computadores e consoles. Mas na
-            adolescência descobriu realmente sua paixão por códigos. Ao ver que
-            o que o limitava era ele mesmo, buscou estudar e se dedicar cada vez
-            mais na área. Uma das coisas que mais o motivou foi as pessoas
-            duvidarem de sua capacidade na área e á dois anos atua como
-            programador web.
+            Tenho conhecimento em HTML, Javascript, Node, PHP, Laravel, Mysql,
+            Vue, React e CSS.
           </p>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col content-bio">
-        <p>Tenho conhecimento em HTML, Javascript, Node, PHP, Laravel, Mysql, Vue, React e CSS. </p>
-      </div>
-    </div>
 
-     <!-- <div class="row">
+      <!-- <div class="row">
       <div class="col content-bio">
         <button>Baixar Curriculo</button>
       </div>
     </div> -->
 
-    <div class="row">
-      <div class="col">
-        <div class="social-content">
-          <a
-            href="http://github.com/renatoReboucas"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="icons-social"
-          >
-            <i class="fab fa-github"></i> @renatoReboucas
-          </a>
-          <a
-            href="mailto:renato190698@gmail.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="icons-social"
-          >
-            <i class="far fa-envelope"></i> renato190698@gmail.com
-          </a>
-          <span class="icons-social">
-            <i class="fas fa-map-marker-alt"></i> São Paulo, Brasil
-          </span>
+      <div class="row">
+        <div class="col">
+          <div class="social-content">
+            <a
+              href="http://github.com/renatoReboucas"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="icons-social"
+            >
+              <i class="fab fa-github"></i> @renatoReboucas
+            </a>
+            <a
+              href="mailto:renato190698@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="icons-social"
+            >
+              <i class="far fa-envelope"></i> renato190698@gmail.com
+            </a>
+            <span class="icons-social">
+              <i class="fas fa-map-marker-alt"></i> São Paulo, Brasil
+            </span>
+          </div>
         </div>
       </div>
-    </div>
 
-    <div class="row">
-      <div class="col content-social-media">
-        <a
-          href="https://twitter.com/https_zero6"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="social-media"
-        >
-          <i class="fab fa-twitter"></i>
-        </a>
-        <a
-          href="https://linkedin.com/in/renatoreboucas"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="social-media"
-        >
-          <i class="fab fa-linkedin"></i>
-        </a>
-        <a
-          href="https://dev.to/renato_zero6"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="social-media"
-        >
-          <i class="fab fa-dev"></i>
-        </a>
+      <div class="row">
+        <div class="col content-social-media">
+          <a
+            href="https://twitter.com/https_zero6"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="social-media"
+          >
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a
+            href="https://linkedin.com/in/renatoreboucas"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="social-media"
+          >
+            <i class="fab fa-linkedin"></i>
+          </a>
+          <a
+            href="https://dev.to/renato_zero6"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="social-media"
+          >
+            <i class="fab fa-dev"></i>
+          </a>
+        </div>
       </div>
-    </div>
 
-  <!-- <div class="row">
+      <!-- <div class="row">
     <div class="col title-git">
       <h3>Meus Projetos</h3>
       <p>Esses são os repositórios do <strong>github</strong> que eu construi.</p>
@@ -114,13 +121,13 @@
       </div>
     </div>
   </div> -->
-
+    </div>
   </div>
 </template>
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
-import axios from 'axios'
+import axios from "axios";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 export default {
@@ -136,8 +143,8 @@ export default {
     };
   },
   mounted() {
-    this.getProfile()
-    this.getReposOne()
+    this.getProfile();
+    this.getReposOne();
   },
   methods: {
     getProfile() {
@@ -153,10 +160,11 @@ export default {
         });
     },
     getReposOne() {
-      const repo =  axios.get("https://api.github.com/repos/renatoReboucas/api-lumen")
-      this.repos = repo.data
+      const repo = axios.get(
+        "https://api.github.com/repos/renatoReboucas/api-lumen"
+      );
+      this.repos = repo.data;
     },
-
   },
 
   // end export
@@ -210,7 +218,7 @@ a {
 .title {
   color: #2ecc71 !important;
   margin-top: 15px;
-  font-weight: 700;
+  font-weight: 600;
 }
 .content-bio {
   margin-top: 20px;
@@ -218,6 +226,7 @@ a {
   justify-content: center;
   align-items: center;
   text-align: center;
+  font-size: 12px;
 }
 .social-content {
   margin-top: 15px;
@@ -225,6 +234,7 @@ a {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  font-size: 10px;
 }
 .icons-social {
   margin: 10px 10px;
@@ -240,21 +250,27 @@ a {
   flex-wrap: wrap;
   margin-bottom: 10px;
 }
-.title-git{
+.title-git {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   margin-top: 16px;
 }
-.box{
-  
+.box {
   border: 1px solid #e1e4e8;
   border-radius: 6px;
 }
 .box p {
-  background: #FFF !important;
+  background: #fff !important;
   color: #0366d6 !important;
+}
+.header {
+    display: flex;
+    flex-direction: row-reverse;
+    border: 1px solid #2ecc71;
+    /* width: 1440px; */
+    height: 80px;
 }
 @media (max-width: 500px) {
   /* .social-content{
