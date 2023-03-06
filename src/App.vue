@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="container">
-    <div class="row">
+      <div class="row">
         <div class="col">
           <div class="container-title">
             <h1 class="title">Em manutenção</h1>
@@ -9,112 +9,7 @@
         </div>
       </div>
     </div>
-    <!-- <div class="header">
-    <button>Download CV</button>
-    </div> -->
-    <div class="container">
-      <div class="row">
-        <div class="col">
-          <div class="text-center container-picture">
-            <img
-              :src="profile.avatar_url"
-              class="picture rounded mx-auto d-block"
-              alt="autor-picture"
-            />
-          </div>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col">
-          <div class="container-title">
-            <h1 class="title">{ Renato Rebouças }</h1>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col">
-          <div class="content-bio">
-            <p>
-              Renato é um amante de tecnologia desde se da por gente, quando
-              criança vivia na frente de computadores e consoles. Mas na
-              adolescência descobriu realmente sua paixão por códigos. Ao ver
-              que o que o limitava era ele mesmo, buscou estudar e se dedicar
-              cada vez mais na área. Uma das coisas que mais o motivou foi as
-              pessoas duvidarem de sua capacidade na área e á dois anos atua
-              como programador web.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col content-bio">
-          <p>
-            Tenho conhecimento em HTML, Javascript, Node, PHP, Laravel, Mysql,
-            Vue, React e CSS.
-          </p>
-        </div>
-      </div>
-
-      
-
-      <div class="row">
-        <div class="col">
-          <div class="social-content">
-            <a
-              href="http://github.com/renatoReboucas"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="icons-social"
-            >
-              <i class="fab fa-github"></i> @renatoReboucas
-            </a>
-            <a
-              href="mailto:renato190698@gmail.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="icons-social"
-            >
-              <i class="far fa-envelope"></i> renato190698@gmail.com
-            </a>
-            <span class="icons-social">
-              <i class="fas fa-map-marker-alt"></i> São Paulo, Brasil
-            </span>
-          </div>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col content-social-media">
-          <a
-            href="https://twitter.com/https_zero6"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="social-media"
-          >
-            <i class="fab fa-twitter"></i>
-          </a>
-          <a
-            href="https://linkedin.com/in/renatoreboucas"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="social-media"
-          >
-            <i class="fab fa-linkedin"></i>
-          </a>
-          <a
-            href="https://dev.to/renato_zero6"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="social-media"
-          >
-            <i class="fab fa-dev"></i>
-          </a>
-        </div>
-      </div> -->
-
-     
-    </div>
+    
   </div>
 </template>
 
