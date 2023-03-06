@@ -1,5 +1,14 @@
 <template>
   <div>
+    <div class="container">
+    <div class="row">
+        <div class="col">
+          <div class="container-title">
+            <h1 class="title">Em manutenção</h1>
+          </div>
+        </div>
+      </div>
+    </div>
     <!-- <div class="header">
     <button>Download CV</button>
     </div> -->
