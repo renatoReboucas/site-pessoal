@@ -47,11 +47,7 @@
         </div>
       </div>
 
-      <!-- <div class="row">
-      <div class="col content-bio">
-        <button>Baixar Curriculo</button>
-      </div>
-    </div> -->
+      
 
       <div class="row">
         <div class="col">
@@ -106,21 +102,9 @@
             <i class="fab fa-dev"></i>
           </a>
         </div>
-      </div>
+      </div> -->
 
-      <!-- <div class="row">
-    <div class="col title-git">
-      <h3>Meus Projetos</h3>
-      <p>Esses são os repositórios do <strong>github</strong> que eu construi.</p>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      <div class="box">
-        <p>api-lumen</p>
-      </div>
-    </div>
-  </div> -->
+     
     </div>
   </div>
 </template>
